@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Primeros pasos
 
 1. Clonar repositorio en su escritorio
@@ -20,3 +21,8 @@
 ## Recomendaciones
 
 1. No modificar código de otro desarrollador.
+=======
+# CCJJ
+
+Facultad de Ciencias Jurídicas
+>>>>>>> ea17454e12c51787d6b5160d6010bdf78f5f0e7a
